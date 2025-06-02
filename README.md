@@ -13,7 +13,7 @@
 - 🧪 Passionate about secure authentication, real-time systems, and clean UI
 - 📚 Always learning: `TypeScript`, `Docker`, `WebSocket`
 - 💬 Ask me about: `React`, `Node.js`, `JWT`, `MongoDB`, `API security`
-- 📫 Contact me: [your.email@gmail.com](mailto:your.email@gmail.com)
+- 📫 Contact me: [contact.phamthanhhuy@gmail.com](mailto:contact.phamthanhhuy@gmail.com)
 - ⚡ Fun fact: I debug better with coffee ☕ + music 🎧
 
 ---
